@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="45px" height="45px" viewBox="0 0 45 45" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ico-tools</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="45" height="45"></rect>
+        <rect id="path-3" x="0" y="0" width="45" height="45"></rect>
+        <rect id="path-5" x="0" y="0" width="45" height="45"></rect>
+        <rect id="path-7" x="0" y="0" width="45" height="45"></rect>
+        <rect id="path-9" x="0" y="0" width="45" height="45"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Wordpress-Desktop" transform="translate(-938.000000, -1933.000000)">
+            <g id="ico-tools" transform="translate(938.000000, 1933.000000)">
+                <g id="Path-Clipped">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="path-1"></g>
+                    <path d="M32.813239,27.5240465 L40.4072013,35.1180088 C42.2838822,37.0147735 42.2838822,40.0687913 40.4072013,41.965556 L40.4072013,41.965556 C38.5131662,43.8488651 35.4536891,43.8488651 33.5596541,41.965556 L25.9656918,34.3715937 L32.813239,27.5240465 L32.813239,27.5240465 Z" id="Path" stroke="#66A8F7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)"></path>
+                </g>
+                <g id="Path-Clipped">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <g id="path-1"></g>
+                    <line x1="8.63993711" y1="10.192883" x2="18.0228616" y2="19.5758076" id="Path" stroke="#66A8F7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-4)"></line>
+                </g>
+                <g id="Path-Clipped">
+                    <mask id="mask-6" fill="white">
+                        <use xlink:href="#path-5"></use>
+                    </mask>
+                    <g id="path-1"></g>
+                    <line x1="25.0772956" y1="26.6315937" x2="29.4313836" y2="30.9843296" id="Path" stroke="#66A8F7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-6)"></line>
+                </g>
+                <g id="Path-Clipped">
+                    <mask id="mask-8" fill="white">
+                        <use xlink:href="#path-7"></use>
+                    </mask>
+                    <g id="path-1"></g>
+                    <polygon id="Path" stroke="#66A8F7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-8)" points="1 5.07074466 3.99377358 2.07697107 10.9765409 6.33234843 5.25943396 12.0521598"></polygon>
+                </g>
+                <g id="Shape-Clipped">
+                    <mask id="mask-10" fill="white">
+                        <use xlink:href="#path-9"></use>
+                    </mask>
+                    <g id="path-1"></g>
+                    <path d="M37.1713836,1.39275724 C33.9479872,0.429413396 30.4555395,1.26714983 28.0199086,3.5879294 C25.5842776,5.90870897 24.5789541,9.35665303 25.3855975,12.6227887 L2.89308176,35.119361 C1.01140761,37.0135429 1.01140761,40.0713741 2.89308176,41.965556 L2.89308176,41.965556 C4.78634857,43.8494485 7.84600992,43.8494485 9.73927673,41.965556 L32.2372013,19.4689837 C35.5024989,20.2735162 38.9485627,19.2671509 41.2676999,16.8317774 C43.5868371,14.3964039 44.423605,10.90528 43.4604717,7.68319749 L40.5518868,10.5971912 L38.7358805,12.4131975 L36.2559434,11.7506189 L33.7746541,11.0866881 L33.1147799,8.60404655 L32.4494969,6.12275724 L34.2614465,4.31351196 L37.1713836,1.39275724 Z" id="Shape" stroke="#03243B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-10)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

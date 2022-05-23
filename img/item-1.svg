@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="60px" viewBox="0 0 56 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-support</title>
+    <defs>
+        <polygon id="path-1" points="0 60 54 60 54 0 0 0"></polygon>
+    </defs>
+    <g id="Domains" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Domains-Page--TLD-select-state" transform="translate(-769.000000, -3148.000000)">
+            <g id="Includes" transform="translate(-2.000000, 2572.000000)">
+                <g id="Group-13" transform="translate(772.000000, 576.000000)">
+                    <path d="M5.86956522,36.25 L3.52173913,36.25 C2.22573913,36.25 1.17391304,35.13 1.17391304,33.75 L1.17391304,25 C1.17391304,23.62 2.22573913,22.5 3.52173913,22.5 L5.86956522,22.5 L5.86956522,36.25 Z" id="Stroke-1" stroke="#1D2A3C" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M48.1304348,22.5 L50.4782609,22.5 C51.7742609,22.5 52.826087,23.62 52.826087,25 L52.826087,33.75 C52.826087,35.13 51.7742609,36.25 50.4782609,36.25 L48.1304348,36.25" id="Stroke-3" stroke="#59ADFF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M48.1304348,27.5 L48.1304348,23.75 C48.1304348,11.32375 38.6698696,1.25 27,1.25 C15.3301304,1.25 5.86956522,11.32375 5.86956522,23.75 L5.86956522,35" id="Stroke-5" stroke="#1D2A3C" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <g id="Group-8">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Clip-8"></g>
+                        <polygon id="Stroke-7" stroke="#6CADFA" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)" points="22.3043478 58.75 31.6956522 58.75 31.6956522 53.75 22.3043478 53.75"></polygon>
+                    </g>
+                    <path d="M19.9565217,11.25 C20.331,12.2075 20.7618261,13.12125 21.2184783,14.015" id="Stroke-9" stroke="#1D2A3C" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M21.2181261,14.014875 C25.2869087,21.984875 32.4747783,27.354875 41.0866043,29.363625 C42.239387,29.632375 43.4109522,29.853625 44.6083435,29.999875" id="Stroke-10" stroke="#1D2A3C" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M21.2181261,14.014875 C16.4708217,15.118625 12.9126913,19.999875 12.9126913,26.249875 L12.9126913,35.978625 C12.9126913,43.722375 18.8080826,49.999875 26.0816478,49.999875 L27.9188217,49.999875 C35.191213,49.999875 41.0866043,43.722375 41.0866043,35.978625 L41.0866043,30.613625" id="Stroke-11" stroke="#1D2A3C" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M48.1304348,33.75 L48.1304348,38.58375 C48.1304348,48.285 40.7864348,56.16 31.6956522,56.24875" id="Stroke-12" stroke="#6CADFA" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

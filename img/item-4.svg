@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="45px" height="45px" viewBox="0 0 45 45" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ico-growth</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="45" height="45"></rect>
+        <rect id="path-3" x="0" y="0" width="45" height="45"></rect>
+        <rect id="path-5" x="0" y="0" width="45" height="45"></rect>
+        <rect id="path-7" x="0" y="0" width="45" height="45"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Wordpress-Desktop" transform="translate(-455.000000, -1933.000000)">
+            <g id="ico-growth" transform="translate(455.000000, 1933.000000)">
+                <g id="Shape-Clipped">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="path-1"></g>
+                    <path d="M1,37.2126177 L22.1067782,37.2126177 M2.42978639,36.9533237 L2.42978639,18.6168331 L9.52979492,18.6168331 L9.52979492,36.9533237 M13.7102995,36.9533237 L13.7102995,10.6643343 L20.8139773,10.6643343 L20.8139773,36.9606622 M24.9944819,24.5683648 L24.9944819,2 L32.088375,2 L32.088375,21.1033649" id="Shape" stroke="#03243B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)"></path>
+                </g>
+                <g id="Path-Clipped">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <g id="path-1"></g>
+                    <path d="M32.8002105,21.5693603 C28.2696012,21.5688656 24.1848528,24.2977234 22.4508352,28.4833659 C20.7168176,32.6690085 21.6750509,37.4870602 24.8786755,40.6906848 C28.0823001,43.8943094 32.9003518,44.8525427 37.0859944,43.1185251 C41.2716369,41.3845075 44.0004947,37.2997591 44,32.7691498 C43.9993246,26.5839566 38.9854037,21.5700356 32.8002105,21.5693603 Z" id="Path" stroke="#66A8F7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-4)"></path>
+                </g>
+                <g id="Path-Clipped">
+                    <mask id="mask-6" fill="white">
+                        <use xlink:href="#path-5"></use>
+                    </mask>
+                    <g id="path-1"></g>
+                    <path d="M37.0406462,27.8829252 C36.1844867,28.2376198 29.038001,36.0555793 27.8173621,37.2162869" id="Path" stroke="#66A8F7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-6)"></path>
+                </g>
+                <g id="Path-Clipped">
+                    <mask id="mask-8" fill="white">
+                        <use xlink:href="#path-7"></use>
+                    </mask>
+                    <g id="path-1"></g>
+                    <polyline id="Path" stroke="#66A8F7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-8)" points="37.0406462 35.8256393 37.0406462 27.880479 29.0979321 27.880479"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
